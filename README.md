@@ -1,6 +1,6 @@
 # Proxmox Backup Server Host Backup Tool
 
-A Bash script for backuping standalone hosts to a Proxmox Backup Server (PBS)
+A Bash script for backing up standalone hosts to a Proxmox Backup Server (PBS)
 
 ## Description
 
