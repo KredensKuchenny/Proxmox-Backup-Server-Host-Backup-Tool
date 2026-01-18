@@ -69,7 +69,3 @@ You can schedule automatic backups using cron. For example, to run daily at 2:00
 ```bash
 0 2 * * * /path/to/pbs_client.sh > /dev/null 2>&1
 ```
-
-This will:
-- Run the backup daily
-- Suppress all output (no logs will be printed or saved by cron)
