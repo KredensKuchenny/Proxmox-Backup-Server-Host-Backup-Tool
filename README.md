@@ -12,7 +12,6 @@ This script allows you to:
 It uses PBS credentials, including an API token, to authenticate and perform the backup.
 
 ## Requirements
-- Linux system with Bash
 - Proxmox Backup Client (`proxmox-backup-client`) installed
 - A PBS account with an API token
 - Sufficient permissions to read the directories to be backed up
