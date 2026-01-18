@@ -21,11 +21,11 @@ It uses PBS credentials, including an API token, to authenticate and perform the
 Edit the script to provide your PBS credentials and settings:
 
 ```bash
-PBS_PASSWORD='example-password-1234'                                 # Your API secret
-PBS_USER_STRING='user@example@pbs!example-vm-gen01.example.com'      # User/token in format: user@pbs!token
-PBS_SERVER='pbs-server.example.com'                                  # PBS server address
-PBS_DATASTORE='example-datastore'                                    # Name of the PBS datastore
-PBS_NAMESPACE='example-vm-gen01.example.com'                         # Namespace to store backups
+PBS_PASSWORD='example-password-1234'                           # Your API secret
+PBS_USER_STRING='user@example@pbs!example-vm.example.com'      # User/token in format: user@pbs!token
+PBS_SERVER='pbs-server.example.com'                            # PBS server address
+PBS_DATASTORE='example-datastore'                              # Name of the PBS datastore
+PBS_NAMESPACE='example-vm.example.com'                         # Namespace to store backups
 ```
 
 You can also change the log file name if needed:
