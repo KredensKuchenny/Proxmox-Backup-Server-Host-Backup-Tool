@@ -22,7 +22,7 @@ Edit the script to provide your PBS credentials and settings:
 
 ```bash
 PBS_PASSWORD='example-secret'                                  # Your API secret
-PBS_USER_STRING='user@pbs!example-vm-gen01.example.com'        # User/token in format: user@pbs!token
+PBS_USER_STRING='user@pbs!example-vm.example.com'              # User/token in format: user@pbs!token
 PBS_SERVER='pbs-server.example.com'                            # PBS server address
 PBS_DATASTORE='example-datastore'                              # Name of the PBS datastore
 PBS_NAMESPACE='example-vm.example.com'                         # Namespace to store backups
