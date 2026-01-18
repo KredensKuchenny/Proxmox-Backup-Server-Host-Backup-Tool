@@ -6,7 +6,7 @@
 
 # PBS credentials and server info
 PBS_PASSWORD='example-password-1234'
-PBS_USER_STRING='user@example@pbs!example-vm-gen01.example.com'
+PBS_USER_STRING='user@example@pbs!example-vm.example.com'
 PBS_SERVER='pbs-server.example.com'
 PBS_DATASTORE='example-datastore'
 PBS_NAMESPACE='example-vm-gen01.example.com'
