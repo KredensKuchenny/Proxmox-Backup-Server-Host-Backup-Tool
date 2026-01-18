@@ -6,10 +6,10 @@
 
 # PBS credentials and server info
 PBS_PASSWORD='example-secret'
-PBS_USER_STRING='user@pbs!example-vm-gen01.example.com'
+PBS_USER_STRING='user@pbs!example-vm.example.com'
 PBS_SERVER='pbs-server.example.com'
 PBS_DATASTORE='example-datastore'
-PBS_NAMESPACE='example-vm-gen01.example.com'
+PBS_NAMESPACE='example-vm.example.com'
 
 # Log file
 LOG_FILE="pbs_client.log"
