@@ -14,7 +14,7 @@ It uses PBS credentials, including an API token, to authenticate and perform the
 ## Requirements
 - Proxmox Backup Client (`proxmox-backup-client`) installed
 - A PBS account with an API token
-- Sufficient permissions to read the directories to be backed up
+- Permissions to create backups on the PBS
 
 ## Configuration
 
