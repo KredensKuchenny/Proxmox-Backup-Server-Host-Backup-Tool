@@ -12,7 +12,7 @@ PBS_DATASTORE='example-datastore'
 PBS_NAMESPACE='example-vm.example.com'
 
 # Log file
-LOG_FILE="pbs_client.log"
+LOG_FILE="/opt/pbs_backup/pbs_client.log"
 
 # Check if "info" parameter was passed
 SHOW_INFO=false
