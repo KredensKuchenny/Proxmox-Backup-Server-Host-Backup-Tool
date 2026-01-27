@@ -67,5 +67,5 @@ Example log entry:
 You can schedule automatic backups using cron. For example, to run daily at 2:00 AM and discard all output:
 
 ```bash
-0 2 * * * /path/to/pbs_client.sh > /dev/null 2>&1
+0 2 * * * /opt/pbs_backup/pbs_client.sh > /dev/null 2>&1
 ```
