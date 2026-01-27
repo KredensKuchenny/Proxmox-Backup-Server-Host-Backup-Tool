@@ -30,7 +30,7 @@ PBS_NAMESPACE='example-vm.example.com'                         # Namespace to st
 
 You can also change the log file name if needed:
 ```bash
-LOG_FILE="pbs_client.log"
+LOG_FILE="/opt/pbs_backup/pbs_client.log"
 ```
 
 ## Usage
